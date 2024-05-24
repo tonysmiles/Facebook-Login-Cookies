@@ -1,0 +1,21 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.facebook.com	TRUE	/	TRUE	1751074674	sb	5ttrrgd_cn3hP4yuF8sPz6QZa
+.facebook.com	TRUE	/	TRUE	0	m_pixel_ratio	1
+.facebook.com	TRUE	/	FALSE	0	m_ls	%7B%22c%23123124543ssaswAABa6Zha6_5-1BhMEFqq184PIvS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABaEnrzEDBYAABV-HEwAABYAFoqevMQMFgAAFigA%22%7D%2C%22d%22%3A%221d1fa9af-55f2-4f3f-a10a-ef9378ecf056%22%2C%22s%22%3A%220%22%2C%22u%22%3A%22uwjhx3%22%7D
+.facebook.com	TRUE	/	TRUE	0	x-referer	eyJyIjoiL3ByajsadaasmndamjZT1wcm9maWxlX3NldHRpbmdzX2Ryb3Bkb3duJnBhaXB2PTAmZWF2PUFmWWthazFlSzdxZ2x6SDZtdkNKZE95d01sakVESWFmYTdkZUxIa2pxZ1pfNnBjX0J0ck4tMnItelQ3Sl8xcXRXUVkiLCJoIjoiL3ByaXZhY3kvP3NvdXJjZT1wcm9maWxlX3NldHRpbmdzX2Ryb3Bkb3duJnBhaXB2PTAmZWF2PUFmWWthazFlSzdxZ2x6SDZtdkNKZE95d01sakVESWFmYTdkZUxIa2pxZ1pfNnBjX0J0ck4tMnItelQ3Sl8xcXRXUVkiLCJzIjoibSJ9
+.facebook.com	TRUE	/	TRUE	1748041523	ps_n	1
+.facebook.com	TRUE	/	TRUE	1748048542	ps_l	1
+.facebook.com	TRUE	/	TRUE	0	usida	eyJ2ZXIiOjEsImlkIjoiQXNjOGg2cjFpbjR4kjadlkasjIjoxNzEzNjA2MjU4fQ%3D%3D
+.facebook.com	TRUE	/	TRUE	1721678942	vpd	v1%3B943x824x2
+.facebook.com	TRUE	/	TRUE	1717098951	locale	vi_VN
+.facebook.com	TRUE	/	TRUE	1724265642	wl_cbv	v2%3Bclient_version%3A2510kandksdnaskfsd3A1716486920
+.facebook.com	TRUE	/	TRUE	1717098889	dpr	1
+.facebook.com	TRUE	/	TRUE	1748049000	c_user	15565465486432
+.facebook.com	TRUE	/	TRUE	1748049000	xs	5%3A6emAiaaaaddfd-Wdg%3A2%3A1716513sdasdaA-1%3A6381%3A%3AAcXm3eyMAqECk89O-g7etrcrr0rhbMB7wu9qwaSz5A
+.facebook.com	TRUE	/	TRUE	1748049000	fr	1kAn0g3uj5hMfjiDw.AWWkznEffjkasjdlaks92132-py6pJOUQM.BmT-k2..AAA.0.0.BmT-k2.AWWz9t0XlMI
+.facebook.com	TRUE	/	TRUE	1748049000	datr	NelPZqkLwbEEFGuxU-hahagahaAm
+.facebook.com	TRUE	/	TRUE	0	presence	C%7B%22t3%22%3A%5B%5D%2C%22utcksalskdalskC%22v%22%3A1%7D
+.facebook.com	TRUE	/	TRUE	1748049000	wd	1920x911

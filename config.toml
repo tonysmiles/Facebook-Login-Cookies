@@ -1,0 +1,25 @@
+headless = false
+quit_on_end = true
+
+# Selenium Webdriver Waits
+implicit_wait = 10  # seconds
+explicit_wait = 60  # seconds
+uploading_wait = 900 # seconds
+
+[paths]
+main = "https://www.facebook.com/"
+login = "https://www.facebook.com/login"
+
+[selectors] # Selenium XPATH selectors
+
+    [selectors.login]
+    username_field = "//input[@name=\"email\"]"
+    password_field = "//input[@type=\"pass\"]"
+    login_button = "//button[@type=\"submit\"]"
+
+    alert_user_if_failed = true # sends an alert and waits instead of failing
+
+    cookie_of_interest = "sessionid" # cookie to check if login was successful
+
+[cookies]
+file_path = "D:/Python/AddFriendFacebook/cookies.txt"  # Thay đường dẫn này bằng đường dẫn tới file cookie của bạn
