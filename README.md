@@ -1,5 +1,17 @@
 # Facebook-Login-Cookies
 
+```bash
+pip install toml
+```
+
+```bash
+pip install selenium
+```
+
+```bash
+pip install webdriver_manager
+```
+
 <h2 id="authentication"> 🔐 Authentication</h2>
 
 Authentication uses your browser's cookies. This workaround was done due to facebook's stricter stance on authentication by a Selenium-controlled browser.
